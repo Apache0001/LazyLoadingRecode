@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  image-rendering: auto;
+
+}
+
+.App-header {
+  background-color:'write';
+  width: 100%;
+  height:100%;
+  color: black;
+}
+
+.App-link {
+  color:purple;
+}
+
